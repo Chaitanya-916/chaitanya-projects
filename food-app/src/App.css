@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+.header{
+  position:fixed;
+   top: 0;
+   left: 0;
+   width: 100%;
+   z-index: 999;
+}
+.scroll-img{
+  border: none;
+}
+.img-brands{
+  height: 200px;
+  width: 250px;
+}
+.reg-body{
+  min-height: 713px;
+  background-color: aquamarine;
+}
+.card-detail{
+  width:300px;
+}
+.cart-detail{
+  width:250px;
+}
+.food-img{
+  min-height: 180px;
+  max-height: 180px;
+}
+.order-detail h5{
+  color:antiquewhite;
+}
+.order-detail h6{
+  color:antiquewhite;
+}
+.order-detail p{
+  color:antiquewhite;
+}
+.main-order{
+  background-color: #333;
+ min-height: 665px;
+}
+.main-view{
+  background-color:darkgrey;
+  min-height: 665px;
+}
+.right-head{
+  display: flex;
+  justify-content:space-between;
+}
+.order-table td{
+  color:antiquewhite;
+}
